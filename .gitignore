@@ -1,0 +1,8 @@
+/data/*
+!/data/examples.json
+.venv/
+__pycache__/
+catboost_info/
+.ipynb_checkpoints/
+.DS_Store
+/*test.py
