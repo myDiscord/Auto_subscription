@@ -1,7 +1,6 @@
 # Prediction of targeted actions on the site 'SberAutosubscription'
 
 The project as a final task for the course 'Introduction to Data Science' from Skillbox.
-Presentation with comments in Google Slides: https://docs.google.com/presentation/d/16_riSreWLjvkDgRxJiVD3PciglLc2WhbS47qxG9ItgM/edit#slide=id.g23d04f622d6_0_372
 
 **Goal** - predict user's performance of one of the target actions - 'Leave a request' or 'Request a call' based on visit time 'visit_\*', advertising tags 'utm_\*', device characteristics 'device_\*' and location ' geo_\*'.
 
